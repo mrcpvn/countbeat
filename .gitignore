@@ -1,0 +1,8 @@
+/.idea
+/build
+
+.DS_Store
+/countbeat
+/countbeat.test
+*.pyc
+*.*~
